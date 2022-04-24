@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /favicon.ico
-tagLine: IT书籍
-actionText: IT书籍 →
+tagLine: IT电子书
+actionText: 电子书 →
 actionLink: /books
 footer: ©2021~2022 BookHub
 ---

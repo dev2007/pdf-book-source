@@ -1,8 +1,9 @@
 module.exports = {
-  title: 'BookHub IT书库',
-  description: '共享书库，学习进步',
+  title: 'BookHub IT电子书库',
+  description: '电子书库，让我变强',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ['meta', { name: 'keywords', content: '电子书,PDF,ePub,doc,document,文档,中文文档,编程,人工智能,AI,大数据,bigdata,云计算,java,c#,c++,c,python,php,sql,swift,go,golang,js,javascript,css,html,elasticsearch,es,ELK,入门教程,计算机,IT,k8s,book,docker,系统架构' }]
   ],
   base: '/',
   markdown: {
@@ -13,7 +14,7 @@ module.exports = {
       selector: '.page img',
       delay: 1000,
       options: {
-        margin: 16
+        margin: 24
       }
     }
   },

@@ -1,3 +1,4 @@
 # 书籍分类
 
-- [Java](/java/java)
+- [Java](/java/list)
+- [JavaScript](/javascript/list)
