@@ -1,18 +1,30 @@
-# Java: A Beginner’s Guide
+# Java: A Beginner’s Guide, 9th Edition 《Java 17 官方入门教程，第9版》
 
 ## 基本信息
 
-英文书名：**Java: A Beginner’s Guide**
+英文书名：**Java: A Beginner’s Guide, 9th Edition**
 
-中文书名：**Java：新手指南**
+中文书名：**Java 17 官方入门教程，第9版**
 
-作者：**Herbert Schildt**
+作者：Herbert Schildt
 
-版本：**第 9 版**
+版本：第 9 版
 
-出版时间：**2021.12**
+ISBN：9781260463552
+
+页数： 752
+
+出版社：[McGraw Hill](https://www.mhprofessional.com/9781260463552-usa-java-a-beginners-guide-ninth-edition-group)
+
+出版时间：**2021.12.17**
 
 <img :src="$withBase('/images/java_a_beginner’s_guide_9th_edition.jpg')" alt="cover">
+
+下载地址：[腾讯微云](https://share.weiyun.com/AZ372LjY)
+
+文件格式：`PDF` `ePub`
+
+密码：`6mw3mf`
 
 ## 内容简介
 
