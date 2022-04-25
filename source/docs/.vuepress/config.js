@@ -59,7 +59,8 @@ module.exports = {
       {
         title: 'Java',
         path: '/java/list',
-        children: ['/java/java_a_beginners_guide',
+        children: ['/java/introduction_to_java_programming_and_data_structures',
+          '/java/java_a_beginners_guide',
           '/java/java_the_complete_reference',
           '/java/modernizing_enterprise_java',
           '/java/reactive_systems_in_java'
