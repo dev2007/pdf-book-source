@@ -13,5 +13,5 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: dev2007/pdf-bookhub
         TARGET_BRANCH: master
-        BUILD_SCRIPT: npm & npm run docs:build
+        BUILD_SCRIPT: npm run docs:build
         BUILD_DIR: docs/.vuepress/dist/
