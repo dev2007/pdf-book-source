@@ -13,7 +13,6 @@
     "@renovamen/vuepress-plugin-baidu-tongji": "^0.2.0",
     "@vuepress/plugin-google-analytics": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
-    "vuepress": "^1.9.7",
-    "vuepress-plugin-comment": "^0.7.3"
+    "vuepress": "^1.9.7"
   }
 }

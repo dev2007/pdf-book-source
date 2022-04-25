@@ -10,4 +10,5 @@ npm install -D vuepress
 
 npm install -D @vuepress/plugin-medium-zoom
 
- npm install -D @vuepress/plugin-google-analytics
+npm install -D @vuepress/plugin-google-analytics
+
