@@ -27,6 +27,20 @@ module.exports = {
       '@renovamen/vuepress-plugin-baidu-tongji', {
         'ba': '919e4f5ecb3ab000e26c2f61cedc7ce0'
       }
+    ],
+    [
+      'vuepress-plugin-comment',
+      {
+        choosen: 'gitalk', 
+        options: {
+          clientID: '6852269af4df47405b4e',
+          clientSecret: '65e33f2cbf43b13a37258667c63fa5d1aba615c2',
+          repo: 'gitalk-comment',
+          owner: 'dev2007',
+          admin: ['dev2007'],
+          distractionFreeMode: false 
+        }
+      }
     ]
   ],
   themeConfig: {
