@@ -1,2 +1,2 @@
-/source/node_modules/**
-/source/docs/.vuepress/dist
+/node_modules/**
+/docs/.vuepress/dist
