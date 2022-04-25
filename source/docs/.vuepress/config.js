@@ -9,15 +9,26 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
-  plugins: {
-    '@vuepress/medium-zoom': {
+  plugins: [
+    ['@vuepress/medium-zoom',{
       selector: '.page img',
       delay: 1000,
       options: {
         margin: 24
       }
-    }
-  },
+    }],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'G-3B4EWP1XN2'
+      }
+    ],
+    [
+      '@renovamen/vuepress-plugin-baidu-tongji', {
+        'ba': '919e4f5ecb3ab000e26c2f61cedc7ce0'
+      }
+    ]
+  ],
   themeConfig: {
     logo: '/favicon.ico',
     nav: [
