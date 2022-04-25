@@ -10,6 +10,12 @@ jobs:
       run: pwd
     - name: ls
       run: ls
+    - name: MoveToVuePress
+      run: cd /source
+    - name: pwd
+      run: pwd
+    - name: ls
+      run: ls
     - name: vuepress-deploy
       uses: jenkey2011/vuepress-deploy@v1.8.1
       env:
