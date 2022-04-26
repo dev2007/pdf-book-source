@@ -1,10 +1,10 @@
-# Multithreaded JavaScript / JavaScript 多线程
+# Multithreaded JavaScript 《JavaScript多线程》
 
 ## 基本信息
 
 英文书名：**Multithreaded JavaScript**
 
-中文书名：**JavaScript 多线程**
+中文书名：**JavaScript多线程**
 
 作者：Thomas Hunter, Bryan English
 

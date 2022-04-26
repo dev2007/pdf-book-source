@@ -50,6 +50,7 @@ module.exports = {
           '/java/introduction_to_java_programming_and_data_structures.html',
           '/java/java_a_beginners_guide.html',
           '/java/java_the_complete_reference.html',
+          '/java/java_to_kotlin.html',
           '/java/modernizing_enterprise_java.html',
           '/java/reactive_systems_in_java.html'
         ]
@@ -57,7 +58,10 @@ module.exports = {
       {
         title: 'JavaScript',
         path: '/javascript/',
-        children: ['/javascript/multithreaded_javascript.html']
+        children: [
+          '/javascript/modern_javaScript_for_the_impatient.html',
+          '/javascript/multithreaded_javascript.html'
+        ]
       },
     ]
 

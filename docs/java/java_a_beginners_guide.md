@@ -1,10 +1,10 @@
-# Java: A Beginner’s Guide, 9th Edition 《Java 17 官方入门教程，第9版》
+# Java: A Beginner’s Guide, 9th Edition 《Java 17官方入门教程，第9版》
 
 ## 基本信息
 
 英文书名：**Java: A Beginner’s Guide, 9th Edition**
 
-中文书名：**Java 17 官方入门教程，第9版**
+中文书名：**Java 17官方入门教程，第9版**
 
 作者：Herbert Schildt
 

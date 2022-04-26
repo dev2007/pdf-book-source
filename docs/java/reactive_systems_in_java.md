@@ -1,10 +1,10 @@
-# Reactive Systems in Java 《Java 响应式系统》
+# Reactive Systems in Java 《Java响应式系统》
 
 ## 基本信息
 
 英文书名：**Reactive Systems in Java**
 
-中文书名：**Java 响应式系统**
+中文书名：**Java响应式系统**
 
 作者：Clement Escoffier, Ken Finnigan
 

@@ -1,10 +1,10 @@
-# Modernizing Enterprise Java 《现代企业级 Java》
+# Modernizing Enterprise Java 《现代企业级Java》
 
 ## 基本信息
 
 英文书名：**Modernizing Enterprise Java**
 
-中文书名：**现代企业级 Java**
+中文书名：**现代企业级Java**
 
 作者：Markus Eisele, Natale Vinto
 
