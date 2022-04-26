@@ -11,6 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@renovamen/vuepress-plugin-baidu-tongji": "^0.2.0",
+    "@vssue/api-github-v3": "^1.4.7",
+    "@vssue/vuepress-plugin-vssue": "^1.4.8",
     "@vuepress/plugin-google-analytics": "^1.9.7",
     "@vuepress/plugin-medium-zoom": "^1.9.7",
     "vuepress": "^1.9.7"

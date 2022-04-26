@@ -26,7 +26,14 @@ module.exports = {
       '@renovamen/vuepress-plugin-baidu-tongji', {
         'ba': '919e4f5ecb3ab000e26c2f61cedc7ce0'
       }
-    ]
+    ],
+    ['@vssue/vuepress-plugin-vssue', {
+      platform: 'github',
+      owner: 'dev2007',
+      repo: 'gitalk-comment',
+      clientId: '6852269af4df47405b4e',
+      clientSecret: '65e33f2cbf43b13a37258667c63fa5d1aba615c2'
+    }]
   ],
   themeConfig: {
     logo: '/favicon.ico',
