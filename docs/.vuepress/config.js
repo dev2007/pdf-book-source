@@ -26,14 +26,7 @@ module.exports = {
       '@renovamen/vuepress-plugin-baidu-tongji', {
         'ba': '919e4f5ecb3ab000e26c2f61cedc7ce0'
       }
-    ],
-    ['@vssue/vuepress-plugin-vssue', {
-      platform: 'github',
-      owner: 'dev2007',
-      repo: 'gitalk-comment',
-      clientId: '6852269af4df47405b4e',
-      clientSecret: '65e33f2cbf43b13a37258667c63fa5d1aba615c2'
-    }]
+    ]
   ],
   themeConfig: {
     logo: '/favicon.ico',
@@ -52,7 +45,9 @@ module.exports = {
       {
         title: 'Java',
         path: '/java/',
-        children: ['/java/introduction_to_java_programming_and_data_structures.html',
+        children: [
+          '/java/hands_on_selenium_webDriver_with_java.html',
+          '/java/introduction_to_java_programming_and_data_structures.html',
           '/java/java_a_beginners_guide.html',
           '/java/java_the_complete_reference.html',
           '/java/modernizing_enterprise_java.html',
