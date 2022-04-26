@@ -12,7 +12,7 @@
 
 ISBN：9781260463552
 
-页数： 752
+页数：752
 
 出版社：[McGraw Hill](https://www.mhprofessional.com/9781260463552-usa-java-a-beginners-guide-ninth-edition-group)
 

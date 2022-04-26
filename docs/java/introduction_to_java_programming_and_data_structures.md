@@ -10,9 +10,9 @@
 
 版本：第 12 版
 
-ISBN: 未知
+ISBN：未知
 
-页数： 未知
+页数：未知
 
 出版社：[Pearson](https://www.pearson.com/uk/educators/higher-education-educators/program/Liang-Introduction-to-Java-Programming-and-Data-Structures-Comprehensive-Version-Global-Edition-12th-Edition/PGM100003102014.html)
 

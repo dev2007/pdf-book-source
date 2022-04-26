@@ -12,7 +12,7 @@
 
 ISBN：9781260463415
 
-页数： 1280
+页数：1280
 
 出版社：[McGraw Hill](https://www.mhprofessional.com/9781260463415-usa-java-the-complete-reference-twelfth-edition-group)
 

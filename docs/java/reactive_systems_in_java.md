@@ -12,7 +12,7 @@
 
 ISBN：9781492091721
 
-页数： 未知
+页数：未知
 
 出版社：[O'Reilly](https://www.oreilly.com/library/view/reactive-systems-in/9781492091714/)
 
