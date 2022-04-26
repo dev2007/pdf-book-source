@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'BookHub IT电子书库',
+  title: 'BookHub 计算机电子书库',
   description: '电子书库，让我变强',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -45,17 +45,17 @@ module.exports = {
       {
         title: 'Java',
         path: '/java/',
-        children: ['/java/introduction_to_java_programming_and_data_structures',
-          '/java/java_a_beginners_guide',
-          '/java/java_the_complete_reference',
-          '/java/modernizing_enterprise_java',
-          '/java/reactive_systems_in_java'
+        children: ['/java/introduction_to_java_programming_and_data_structures.html',
+          '/java/java_a_beginners_guide.html',
+          '/java/java_the_complete_reference.html',
+          '/java/modernizing_enterprise_java.html',
+          '/java/reactive_systems_in_java.html'
         ]
       },
       {
         title: 'JavaScript',
         path: '/javascript/',
-        children: ['/javascript/multithreaded_javascript']
+        children: ['/javascript/multithreaded_javascript.html']
       },
     ]
 
