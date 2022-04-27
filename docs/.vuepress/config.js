@@ -46,6 +46,7 @@ module.exports = {
         title: 'Java',
         path: '/java/',
         children: [
+          '/java/97_things_every_java_programmer_should_know.html',
           '/java/hands_on_selenium_webDriver_with_java.html',
           '/java/introduction_to_java_programming_and_data_structures.html',
           '/java/java_a_beginners_guide.html',

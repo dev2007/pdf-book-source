@@ -1,5 +1,6 @@
 # Java 书籍列表
 
+- [97 Things Every Java Programmer Should Know 《每个Java程序员都应知道的97件事》](/java/97_things_every_java_programmer_should_know.html)
 - [Hands-On Selenium WebDriver with Java 《Java实践Selenium WebDriver》](/java/hands_on_selenium_webDriver_with_java.html)
 - [Introduction to Java Programming and Data Structures, Comprehensive Version, Global Edition, 12th Edition 《Java编程及数据结构入门，综合版，全球版，第12版》](/java/introduction_to_java_programming_and_data_structures.html)
 - [Java: A Beginner’s Guide,9th Edition 《Java 17官方入门教程，第9版》](/java/java_a_beginners_guide.html)
