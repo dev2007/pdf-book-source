@@ -24,7 +24,7 @@ ISBN：未知
 
 文件格式：`truePDF`
 
-密码：`hr5ytr`
+分享密码：`hr5ytr`
 
 ## 内容简介
 

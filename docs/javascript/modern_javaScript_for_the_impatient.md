@@ -24,7 +24,7 @@ ISBN: 无
 
 文件格式：`truePDF` `ePub`
 
-密码：`taib8g`
+分享密码：`taib8g`
 
 ## 内容简介
 

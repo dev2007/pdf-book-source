@@ -60,10 +60,25 @@ module.exports = {
         title: 'JavaScript',
         path: '/javascript/',
         children: [
+          '/multi/learning_php_mysql_&_javascript.html',
           '/javascript/modern_javaScript_for_the_impatient.html',
           '/javascript/multithreaded_javascript.html'
         ]
       },
+      {
+        title: 'MySQL',
+        path: '/mysql/',
+        children: [
+          '/multi/learning_php_mysql_&_javascript.html'
+        ]
+      },
+      {
+        title: 'PHP',
+        path: '/php/',
+        children: [
+          '/multi/learning_php_mysql_&_javascript.html'
+        ]
+      }
     ]
 
   }
