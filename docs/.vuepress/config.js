@@ -60,6 +60,7 @@ module.exports = {
         title: 'JavaScript',
         path: '/javascript/',
         children: [
+          '/javascript/javascript_cookbook.html',
           '/multi/learning_php_mysql_&_javascript.html',
           '/javascript/modern_javaScript_for_the_impatient.html',
           '/javascript/multithreaded_javascript.html'

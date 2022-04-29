@@ -1,10 +1,10 @@
-# Modern JavaScript for the Impatient 《写在大忙人的现代JavaScript》
+# Modern JavaScript for the Impatient 《写给大忙人的现代JavaScript》
 
 ## 基本信息
 
 英文书名：**Modern JavaScript for the Impatient**
 
-中文书名：**写在大忙人的现代JavaScript**
+中文书名：**写给大忙人的现代JavaScript**
 
 作者：Cay S. Horstmann
 
