@@ -8,7 +8,7 @@
 
 作者：Adam D. Scott, Matthew MacDonald, Shelley Powers
 
-版本：第  版
+版本：第 3 版
 
 ISBN：9781492055754
 
