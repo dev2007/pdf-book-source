@@ -50,6 +50,7 @@ module.exports = {
           '/java/hands_on_selenium_webDriver_with_java.html',
           '/java/introduction_to_java_programming_and_data_structures.html',
           '/java/java_a_beginners_guide.html',
+          '/java/java_how_to_program.html',
           '/java/java_the_complete_reference.html',
           '/java/java_to_kotlin.html',
           '/java/modernizing_enterprise_java.html',
