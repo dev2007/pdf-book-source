@@ -2,9 +2,9 @@
 
 ## 基本信息
 
-英文书名：**Brief Java: Early Objects**
+英文书名：**Brief Java: Early Objects, 9th Edition**
 
-中文书名：**Java简介：早期对象**
+中文书名：**Java简介：早期对象，第9版**
 
 作者：Cay S. Horstmann
 
