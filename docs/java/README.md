@@ -2,6 +2,8 @@
 
 - [97 Things Every Java Programmer Should Know 《每个Java程序员都应知道的97件事》](/java/97_things_every_java_programmer_should_know.html)
 - [Brief Java: Early Objects, 9th Edition 《Java简介：早期对象，第9版》](/java/brief_java_early_objects.html)
+- [Core Java Volume I Fundamentals, 11th Edition 《Java核心技术卷I：基础知识，第11版》](/java/core_java_volume_I_undamentals.html)
+- [Core Java Volume II Advanced Features, 11th Edition 《Java核心技术卷II：高级功能，第11版》](/java/core_java_volume_II_advanced_features.html)
 - [Hands-On Selenium WebDriver with Java 《Java实践Selenium WebDriver》](/java/hands_on_selenium_webDriver_with_java.html)
 - [Introduction to Java Programming and Data Structures, Comprehensive Version, Global Edition, 12th Edition 《Java编程及数据结构入门，综合版，全球版，第12版》](/java/introduction_to_java_programming_and_data_structures.html)
 - [Java: A Beginner’s Guide,9th Edition 《Java 17官方入门教程，第9版》](/java/java_a_beginners_guide.html)

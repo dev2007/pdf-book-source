@@ -48,6 +48,8 @@ module.exports = {
         children: [
           '/java/97_things_every_java_programmer_should_know.html',
           '/java/brief_java_early_objects.html',
+          '/java/core_java_volume_I_undamentals.html',
+          '/java/core_java_volume_II_advanced_features.html',
           '/java/hands_on_selenium_webDriver_with_java.html',
           '/java/introduction_to_java_programming_and_data_structures.html',
           '/java/java_a_beginners_guide.html',
@@ -81,6 +83,13 @@ module.exports = {
         path: '/php/',
         children: [
           '/multi/learning_php_mysql_&_javascript.html'
+        ]
+      },
+      {
+        title: 'Python',
+        path: '/python',
+        children: [
+          '/python/full_stack_python_security.html'
         ]
       }
     ]

@@ -4,3 +4,4 @@
 - [JavaScript](/javascript/)
 - [MySQL](/mysql/)
 - [PHP](/php/)
+- [Python](/python/)
