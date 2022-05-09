@@ -10,5 +10,6 @@
 - [Java How to Program, Late Objects, Global Edition, 11th Edition 《Java如何编程，后期对象，全球版，第11版》](/java/java_how_to_program.html)
 - [Java: The Complete Reference, 12th Edition 《Java 17官方参考手册，第12版》](/java/java_the_complete_reference.html)
 - [Java to Kotlin 《Java转Kotlin》](/java/java_to_kotlin.html)
+- [Classic Computer Science Problems in Java 《Java中经典计算机科学问题》](/java/classic_computer_science_problems_in_java.html)
 - [Modernizing Enterprise Java 《现代企业级Java》](/java/modernizing_enterprise_java.html)
 - [Reactive Systems in Java 《Java响应式系统》](/java/reactive_systems_in_java.html)

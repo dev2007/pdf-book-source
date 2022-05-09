@@ -56,6 +56,7 @@ module.exports = {
           '/java/java_how_to_program.html',
           '/java/java_the_complete_reference.html',
           '/java/java_to_kotlin.html',
+          '/java/classic_computer_science_problems_in_java.html',
           '/java/modernizing_enterprise_java.html',
           '/java/reactive_systems_in_java.html'
         ]
@@ -65,6 +66,7 @@ module.exports = {
         path: '/javascript/',
         children: [
           '/javascript/javascript_cookbook.html',
+          '/javascript/javascript_for_impatient_programmers.html',
           '/multi/learning_php_mysql_&_javascript.html',
           '/javascript/modern_javaScript_for_the_impatient.html',
           '/javascript/multithreaded_javascript.html',
