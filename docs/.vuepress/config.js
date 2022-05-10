@@ -47,6 +47,7 @@ module.exports = {
         path: '/java/',
         children: [
           '/java/97_things_every_java_programmer_should_know.html',
+          '/java//java/big_java_early_objects.html',
           '/java/brief_java_early_objects.html',
           '/java/core_java_volume_I_undamentals.html',
           '/java/core_java_volume_II_advanced_features.html',
@@ -58,7 +59,8 @@ module.exports = {
           '/java/java_to_kotlin.html',
           '/java/classic_computer_science_problems_in_java.html',
           '/java/modernizing_enterprise_java.html',
-          '/java/reactive_systems_in_java.html'
+          '/java/reactive_systems_in_java.html',
+          '/java/sre_with_java_microservices.html'
         ]
       },
       {

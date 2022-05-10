@@ -1,6 +1,7 @@
 # Java 书籍列表
 
 - [97 Things Every Java Programmer Should Know 《每个Java程序员都应知道的97件事》](/java/97_things_every_java_programmer_should_know.html)
+- [Big Java: Early Objects, 7th Edition 《大Java：早期对象，第7版》](/java/big_java_early_objects.html)
 - [Brief Java: Early Objects, 9th Edition 《Java简介：早期对象，第9版》](/java/brief_java_early_objects.html)
 - [Core Java Volume I Fundamentals, 11th Edition 《Java核心技术卷I：基础知识，第11版》](/java/core_java_volume_I_undamentals.html)
 - [Core Java Volume II Advanced Features, 11th Edition 《Java核心技术卷II：高级功能，第11版》](/java/core_java_volume_II_advanced_features.html)
@@ -13,3 +14,4 @@
 - [Classic Computer Science Problems in Java 《Java中经典计算机科学问题》](/java/classic_computer_science_problems_in_java.html)
 - [Modernizing Enterprise Java 《现代企业级Java》](/java/modernizing_enterprise_java.html)
 - [Reactive Systems in Java 《Java响应式系统》](/java/reactive_systems_in_java.html)
+- [SRE with Java Microservices 《Java微服务SRE》](/java/sre_with_java_microservices.html)
