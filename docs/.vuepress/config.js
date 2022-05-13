@@ -71,6 +71,7 @@ module.exports = {
           '/javascript/deep_javascript_theory_and_techniques.html',
           '/javascript/javascript_cookbook.html',
           '/javascript/javascript_for_impatient_programmers.html',
+          '/javascript/javascript_the_definitive_guide.html',
           '/javascript/javascript_the_new_toys.html',
           '/multi/learning_php_mysql_&_javascript.html',
           '/javascript/modern_javaScript_for_the_impatient.html',
