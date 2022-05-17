@@ -18,7 +18,11 @@ ISBN：9781260463415
 
 出版时间：**2021.11.02**
 
+<a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/0p16qXu">
 <img :src="$withBase('/images/java_the_complete_reference_12th_edition.jpg')" alt="cover">
+</a>
+
+天猫折扣购：[**新华在线图书**（中文）](https://s.click.taobao.com/0p16qXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/QaVyQeuC)
 

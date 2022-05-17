@@ -18,7 +18,13 @@ ISBN：9780135170359
 
 出版时间：**2019**
 
+<a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/k20bdXu">
 <img :src="$withBase('/images/core_java_volume_II_advanced_features.jpg')" alt="cover">
+</a>
+
+天猫折扣购：[**机械工业出版社**（中文）《Java核心技术卷II：高级功能，第11版》](https://s.click.taobao.com/k20bdXu)
+
+天猫折扣购：[**机械工业出版社**（中文）《Java核心技术卷I：基础知识 + 卷II：高级功能，第11版》](https://s.click.taobao.com/KUDXvXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/2yg8aFiH)
 

@@ -10,13 +10,6 @@ module.exports = {
     lineNumbers: true
   },
   plugins: [
-    ['@vuepress/medium-zoom', {
-      selector: '.page img',
-      delay: 1000,
-      options: {
-        margin: 24
-      }
-    }],
     [
       '@vuepress/google-analytics', {
         'ga': 'UA-226868573-2'
@@ -75,6 +68,7 @@ module.exports = {
           '/javascript/javascript_for_impatient_programmers.html',
           '/javascript/javascript_the_definitive_guide.html',
           '/javascript/javascript_the_new_toys.html',
+          '/javascript/javascript_on_things.html',
           '/multi/learning_php_mysql_&_javascript.html',
           '/javascript/modern_javaScript_for_the_impatient.html',
           '/javascript/multithreaded_javascript.html',

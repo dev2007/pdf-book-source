@@ -18,7 +18,13 @@ ISBN：9781492091721
 
 出版时间：**2021.11**
 
+<a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/bz8VdXu">
 <img :src="$withBase('/images/reactive_systems_in_java.jpg')" alt="cover">
+</a>
+
+天猫红包：[**先领取购书红包**](https://s.click.taobao.com/f2L3qXu)
+
+天猫折扣购：[**澜瑞图书**（英文原版）](https://s.click.taobao.com/bz8VdXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/i53exhvq)
 

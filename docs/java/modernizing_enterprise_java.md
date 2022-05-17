@@ -18,7 +18,11 @@ ISBN：9781098102142
 
 出版时间：**2021.10**
 
+<a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/KWsXdXu">
 <img :src="$withBase('/images/modernizing_enterprise_java.jpg')" alt="cover">
+</a>
+
+天猫折扣购：[**北京进口图书**（英文原版）](https://s.click.taobao.com/KWsXdXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/jG25Uyvm)
 

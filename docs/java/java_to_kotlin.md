@@ -18,7 +18,13 @@ ISBN:9781492082279
 
 出版时间：**2021.08**
 
+<a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/sZk5qXu">
 <img :src="$withBase('/images/java_to_kotlin.jpg')" alt="cover">
+</>
+
+天猫红包：[**先领取购书红包**](https://s.click.taobao.com/Tga5qXu)
+
+天猫折扣购：[**中国国际图书**（英文原版）](https://s.click.taobao.com/sZk5qXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/VjjeZ4h3)
 

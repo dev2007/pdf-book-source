@@ -18,7 +18,13 @@ ISBN：9781492073925
 
 出版时间：**2020.09**
 
+<a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/rsL3qXu">
 <img :src="$withBase('/images/sre_with_java_microservices.jpg')" alt="cover">
+</a>
+
+天猫红包：[**先领取购书红包**](https://s.click.taobao.com/7hz3qXu)
+
+天猫折扣购：[**澜瑞图书**（英文原版）](https://s.click.taobao.com/rsL3qXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/FXGIaQDF)
 
