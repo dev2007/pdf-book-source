@@ -22,9 +22,9 @@ ISBN：9781260463552
 <img :src="$withBase('/images/java_a_beginner’s_guide_9th_edition.jpg')" alt="cover">
 </a>
 
-天猫红包：[**先领取购书红包**](https://s.click.taobao.com/Ank3qXu)
+天猫红包：[**领取购书红包**](https://s.click.taobao.com/Ank3qXu)
 
-天猫折扣购：[**浙江外文图书**（中文）](https://s.click.taobao.com/eUV3qXu)
+天猫折扣购：[中文版](https://s.click.taobao.com/eUV3qXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/AZ372LjY)
 

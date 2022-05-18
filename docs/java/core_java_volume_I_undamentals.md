@@ -22,9 +22,9 @@ ISBN：9780135170311
 <img :src="$withBase('/images/core_java_volume_I_undamentals.jpg')" alt="cover">
 </a>
 
-天猫折扣购：[**机械工业出版社**（中文）卷I](https://s.click.taobao.com/oaiZvXu)
+天猫折扣购：[**中文版** 卷I](https://s.click.taobao.com/oaiZvXu)
 
-天猫折扣购：[**机械工业出版社**（中文）卷I + 卷II](https://s.click.taobao.com/KUDXvXu)
+天猫折扣购：[**中文版** 卷I + 卷II](https://s.click.taobao.com/KUDXvXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/ibAzboWF)
 

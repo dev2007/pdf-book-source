@@ -22,7 +22,7 @@ ISBN：9781098102142
 <img :src="$withBase('/images/modernizing_enterprise_java.jpg')" alt="cover">
 </a>
 
-天猫折扣购：[**北京进口图书**（英文原版）](https://s.click.taobao.com/KWsXdXu)
+天猫折扣购：[英文原版](https://s.click.taobao.com/KWsXdXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/jG25Uyvm)
 

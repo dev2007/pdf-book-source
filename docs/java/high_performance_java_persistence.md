@@ -22,9 +22,9 @@ ISBN：无
 <img :src="$withBase('/images/high_performance_java_persistence.jpg')" alt="cover">
 </a>
 
-天猫红包：[**先领取购书红包**](https://s.click.taobao.com/bYOWdXu)
+天猫红包：[**领取购书红包**](https://s.click.taobao.com/bYOWdXu)
 
-天猫折扣购：[**澜瑞图书**（英文原版）](https://s.click.taobao.com/xt54qXu)
+天猫折扣购：[英文原版](https://s.click.taobao.com/xt54qXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/RHtaDFCF)
 

@@ -22,9 +22,9 @@ ISBN：9781492056270
 <img :src="$withBase('/images/learning_java.jpg')" alt="cover">
 </a>
 
-天猫红包：[**先领取购书红包**](https://s.click.taobao.com/M8m4qXu)
+天猫红包：[**领取购书红包**](https://s.click.taobao.com/M8m4qXu)
 
-天猫折扣购：[**上海外文图书**（英文原版）](https://s.click.taobao.com/ig3YdXu)
+天猫折扣购：[英文原版](https://s.click.taobao.com/ig3YdXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/8zXO2Gx8)
 

@@ -17,13 +17,14 @@ ISBN：9781491952696
 出版社：[O’Reilly](https://www.oreilly.com/library/view/97-things-every/9781491952689/)
 
 出版时间：**2020.05**
+
 <a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/vSTadXu">
 <img :src="$withBase('/images/97_things_every_java_programmer_should_know.jpg')" alt="cover">
 </a>
 
-天猫红包：[**先领取购书红包**](https://s.click.taobao.com/V477qXu)
+天猫红包：[**领取购书红包**](https://s.click.taobao.com/V477qXu)
 
-天猫折扣购：[**中国国际图书**（英文原版）](https://s.click.taobao.com/vSTadXu)
+天猫折扣购：[英文原版](https://s.click.taobao.com/vSTadXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/oQD3VIWI)
 

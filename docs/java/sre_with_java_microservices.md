@@ -22,9 +22,9 @@ ISBN：9781492073925
 <img :src="$withBase('/images/sre_with_java_microservices.jpg')" alt="cover">
 </a>
 
-天猫红包：[**先领取购书红包**](https://s.click.taobao.com/7hz3qXu)
+天猫红包：[**领取购书红包**](https://s.click.taobao.com/7hz3qXu)
 
-天猫折扣购：[**澜瑞图书**（英文原版）](https://s.click.taobao.com/rsL3qXu)
+天猫折扣购：[英文原版](https://s.click.taobao.com/rsL3qXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/FXGIaQDF)
 

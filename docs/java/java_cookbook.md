@@ -22,9 +22,9 @@ ISBN：9781492072584
 <img :src="$withBase('/images/java_cookbook.jpg')" alt="cover">
 </a>
 
-天猫红包：[**先领取购书红包**](https://s.click.taobao.com/Quh5qXu)
+天猫红包：[**领取购书红包**](https://s.click.taobao.com/Quh5qXu)
 
-天猫折扣购：[**中国国际图书**（英文原版）](https://s.click.taobao.com/geuYdXu)
+天猫折扣购：[英文原版](https://s.click.taobao.com/geuYdXu)
 
 下载地址：[腾讯微云](https://share.weiyun.com/S8APZBsl)
 
