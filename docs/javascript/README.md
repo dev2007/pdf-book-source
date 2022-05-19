@@ -1,6 +1,7 @@
 # JavaScript 书籍列表
 
 - [Deep JavaScript: Theory and techniques 《深入JavaScript：理论和技术》](/javascript/deep_javascript_theory_and_techniques.html)
+- [Deep Learning with JavaScript 《深入学习JavaScript》](/javascript/deep_learning_with_javascript.html)
 - [JavaScript Cookbook, 3rd Edition 《JavaScript入门，第3版》](/javascript/javascript_cookbook.html)
 - [JavaScript for impatient programmers, ES2021 Edition 《无耐心程序员的JavaScript，ES2021版》](/javascript/javascript_for_impatient_programmers.html)
 - [JavaScript: The Definitive Guide, 7th Edition 《JavaScript：权威指南，第7版》](/javascript/javascript_the_definitive_guide.html)

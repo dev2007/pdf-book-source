@@ -66,6 +66,7 @@ module.exports = {
         path: '/javascript/',
         children: [
           '/javascript/deep_javascript_theory_and_techniques.html',
+          '/javascript/deep_learning_with_javascript',
           '/javascript/javascript_cookbook.html',
           '/javascript/javascript_for_impatient_programmers.html',
           '/javascript/javascript_the_definitive_guide.html',
