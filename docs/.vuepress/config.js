@@ -58,7 +58,8 @@ module.exports = {
           '/java/modernizing_enterprise_java.html',
           '/java/reactive_systems_in_java.html',
           '/java/sre_with_java_microservices.html',
-          '/java/testing_java_microservices.html'
+          '/java/testing_java_microservices.html',
+          '/java/the_java_module_system.html'
         ]
       },
       {
@@ -72,6 +73,7 @@ module.exports = {
           '/javascript/javascript_the_definitive_guide.html',
           '/javascript/javascript_the_new_toys.html',
           '/javascript/javascript_on_things.html',
+          '/javascript/learning_javascript_data_structures_and_algorithms.html',
           '/multi/learning_php_mysql_&_javascript.html',
           '/javascript/modern_javaScript_for_the_impatient.html',
           '/javascript/multithreaded_javascript.html',
