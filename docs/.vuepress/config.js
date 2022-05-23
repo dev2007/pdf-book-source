@@ -45,6 +45,7 @@ module.exports = {
           '/java/classic_computer_science_problems_in_java.html',
           '/java/core_java_volume_I_undamentals.html',
           '/java/core_java_volume_II_advanced_features.html',
+          '/java/enterprise_java_microservices.html',
           '/java/hands_on_selenium_webDriver_with_java.html',
           '/java/high_performance_java_persistence.html',
           '/java/introduction_to_java_programming_and_data_structures.html',
