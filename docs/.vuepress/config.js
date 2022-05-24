@@ -60,7 +60,8 @@ module.exports = {
           '/java/reactive_systems_in_java.html',
           '/java/sre_with_java_microservices.html',
           '/java/testing_java_microservices.html',
-          '/java/the_java_module_system.html'
+          '/java/the_java_module_system.html',
+          '/java/think_Java.html'
         ]
       },
       {

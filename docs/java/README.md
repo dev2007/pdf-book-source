@@ -22,3 +22,4 @@
 - [SRE with Java Microservices 《Java微服务SRE》](/java/sre_with_java_microservices.html)
 - [Testing Java Microservices 《测试Java微服务》](/java/testing_java_microservices.html)
 - [The Java Module System 《深入理解Java模块系统》](/java/the_java_module_system.html)
+- [Think Java, 2nd Edition 《像计算机科学家一样思考Java》](/java/think_Java.html)
