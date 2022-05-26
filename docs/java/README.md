@@ -13,6 +13,7 @@
 - [Java: A Beginner’s Guide,9th Edition 《Java 17官方入门教程，第9版》](/java/java_a_beginners_guide.html)
 - [Java Cookbook, 4th Edition 《Java 指南，第4版》](/java/java_cookbook.html)
 - [Java How to Program, Late Objects, Global Edition, 11th Edition 《Java如何编程，后期对象，全球版，第11版》](/java/java_how_to_program.html)
+- [Java in a Nutshell, 7th Edition 《Java技术手册，第7版》](/java/java_in_a_nutshell.html)
 - [Java Performance, 2nd Edition 《Java性能权威指南，第2版》](/java/java_performance.html)
 - [Java: The Complete Reference, 12th Edition 《Java 17官方参考手册，第12版》](/java/java_the_complete_reference.html)
 - [Java to Kotlin 《Java转Kotlin》](/java/java_to_kotlin.html)

@@ -52,6 +52,7 @@ module.exports = {
           '/java/java_a_beginners_guide.html',
           '/java/java_cookbook.html',
           '/java/java_how_to_program.html',
+          '/java/java_in_a_nutshell.html',
           '/java/java_performance.html',
           '/java/java_the_complete_reference.html',
           '/java/java_to_kotlin.html',
