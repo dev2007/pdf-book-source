@@ -19,6 +19,7 @@
 - [Java to Kotlin 《Java转Kotlin》](/java/java_to_kotlin.html)
 - [Learning Java, 5th Edition 《学习Java，第5版》](/java/learning_java.html)
 - [Modernizing Enterprise Java 《现代企业级Java》](/java/modernizing_enterprise_java.html)
+- [Modern Java in Action 《现代Java实战》](/java/modern_java_in_action.html)
 - [Reactive Systems in Java 《Java响应式系统》](/java/reactive_systems_in_java.html)
 - [SRE with Java Microservices 《Java微服务SRE》](/java/sre_with_java_microservices.html)
 - [Testing Java Microservices 《测试Java微服务》](/java/testing_java_microservices.html)

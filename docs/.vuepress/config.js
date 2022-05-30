@@ -26,8 +26,7 @@ module.exports = {
     lastUpdated: '最后更新',
     nav: [
       { text: '首页', link: '/' },
-      { text: '中文技术文档', link: 'https://docs.bookhub.zone' },
-      { text: 'GitHub', link: 'https://github.com/dev2007/bookhub' }
+      { text: '中文技术文档', link: 'https://docs.bookhub.zone' }
     ],
     sidebar: [
       {
@@ -58,6 +57,7 @@ module.exports = {
           '/java/java_to_kotlin.html',
           '/java/learning_java.html',
           '/java/modernizing_enterprise_java.html',
+          '/java/modern_java_in_action.html',
           '/java/reactive_systems_in_java.html',
           '/java/sre_with_java_microservices.html',
           '/java/testing_java_microservices.html',
