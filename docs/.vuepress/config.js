@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'BookHub 计算机电子书库',
-  description: '电子书库，让我变强',
+  title: 'BookHub 计算机书库',
+  description: '读书使人进步',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'keywords', content: '电子书,PDF,ePub,doc,document,文档,中文文档,编程,人工智能,AI,大数据,bigdata,云计算,java,c#,c++,c,python,php,sql,swift,go,golang,js,javascript,css,html,elasticsearch,es,ELK,入门教程,计算机,IT,k8s,book,docker,系统架构' }]
@@ -44,7 +44,9 @@ module.exports = {
           '/java/classic_computer_science_problems_in_java.html',
           '/java/core_java_volume_I_undamentals.html',
           '/java/core_java_volume_II_advanced_features.html',
+          '/java/effective_java.html',
           '/java/enterprise_java_microservices.html',
+          '/java/functional_programming_in_java.html',
           '/java/hands_on_selenium_webDriver_with_java.html',
           '/java/high_performance_java_persistence.html',
           '/java/introduction_to_java_programming_and_data_structures.html',
