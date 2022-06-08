@@ -35,6 +35,13 @@ module.exports = {
         children: []
       },
       {
+        title: 'C#',
+        path: '/csharp',
+        children: [
+          '/csharp/csharp_10_in_a_nutshell'
+        ]
+      },
+      {
         title: 'Java',
         path: '/java/',
         children: [
