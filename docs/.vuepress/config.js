@@ -38,7 +38,8 @@ module.exports = {
         title: 'C#',
         path: '/csharp',
         children: [
-          '/csharp/csharp_10_in_a_nutshell'
+          '/csharp/csharp_10_in_a_nutshell',
+          '/csharp/csharp_10_pocket_reference'
         ]
       },
       {
