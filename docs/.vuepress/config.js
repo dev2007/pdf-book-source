@@ -40,7 +40,8 @@ module.exports = {
         children: [
           '/csharp/csharp_cookbook',
           '/csharp/csharp_10_in_a_nutshell',
-          '/csharp/csharp_10_pocket_reference'
+          '/csharp/csharp_10_pocket_reference',
+          '/csharp/professional_csharp_and.net'
         ]
       },
       {
