@@ -19,7 +19,7 @@ ISBN：9781119797203
 出版时间：**2021.09**
 
 <a title="点击购买正版纸质图书" target="_blank" href="https://s.click.taobao.com/1lZA7Vu">
-<img :src="$withBase('/images/')" alt="cover">
+<img :src="$withBase('/images/professional_csharp.jpg')" alt="cover">
 </a>
 
 天猫购书红包：[**领取购书红包**](https://s.click.taobao.com/6ftA7Vu)
