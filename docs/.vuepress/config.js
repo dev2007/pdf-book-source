@@ -38,11 +38,12 @@ module.exports = {
         title: 'C#',
         path: '/csharp',
         children: [
-          '/csharp/csharp_cookbook',
-          '/csharp/csharp_10_in_a_nutshell',
-          '/csharp/csharp_10_pocket_reference',
-          '/csharp/professional_csharp',
-          '/csharp/programming_csharp_10'
+          '/csharp/code_like_a_pro_in_csharp.html',
+          '/csharp/csharp_cookbook.html',
+          '/csharp/csharp_10_in_a_nutshell.html',
+          '/csharp/csharp_10_pocket_reference.html',
+          '/csharp/professional_csharp.html',
+          '/csharp/programming_csharp_10.html'
         ]
       },
       {
