@@ -26,7 +26,7 @@ module.exports = {
     lastUpdated: '最后更新',
     nav: [
       { text: '首页', link: '/' },
-      { text: '中文技术文档', link: 'https://docs.bookhub.zone' }
+      { text: '中文技术文档', link: 'https://docs.bookhub.tech' }
     ],
     sidebar: [
       {
