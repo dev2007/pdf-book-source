@@ -3,7 +3,8 @@ module.exports = {
   description: '读书使人进步',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
-    ['meta', { name: 'keywords', content: '电子书,PDF,ePub,doc,document,文档,中文文档,编程,人工智能,AI,大数据,bigdata,云计算,java,c#,c++,c,python,php,sql,swift,go,golang,js,javascript,css,html,elasticsearch,es,ELK,入门教程,计算机,IT,k8s,book,docker,系统架构' }]
+    ['meta', { name: 'keywords', content: '电子书,PDF,ePub,doc,document,文档,中文文档,编程,人工智能,AI,大数据,bigdata,云计算,java,c#,c++,c,python,php,sql,swift,go,golang,js,javascript,css,html,elasticsearch,es,ELK,入门教程,计算机,IT,k8s,book,docker,系统架构' }],
+    ['script',{src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8380975615223941',crossorigin: 'anonymous'}]
   ],
   base: '/',
   markdown: {
@@ -44,6 +45,13 @@ module.exports = {
           '/csharp/csharp_10_pocket_reference.html',
           '/csharp/professional_csharp.html',
           '/csharp/programming_csharp_10.html'
+        ]
+      },
+      {
+        title: 'Go',
+        path: '/go/',
+        children:[
+          '/go/100_go_mistakes.html'
         ]
       },
       {
