@@ -26,9 +26,8 @@ module.exports = {
     logo: '/favicon.ico',
     lastUpdated: '最后更新',
     nav: [
-      { text: '首页', link: '/' },
+      { text: '首页', link: 'https://www.bookhub.tech' },
       { text: '中文技术文档', link: 'https://docs.bookhub.tech' },
-      { text: 'STEMpump', link: 'https://stempump.bookhub.tech'}
     ],
     sidebar: [
       {
